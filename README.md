@@ -1,0 +1,1 @@
+This repository serves as a home for [coursework](https://github.com/nikhilsrinivasan/csci-4963/tree/coursework) and [code](https://github.com/nikhilsrinivasan/csci-4963) associated with [CSCI 4963.01 Data Science](http://tw.rpi.edu/web/Courses/DataScience/2013).
